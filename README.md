@@ -19,25 +19,6 @@
 -   使用[roadhog](https://github.com/sorrycc/roadhog)本地调试和构建，其中Mock功能实现脱离后端独立开发。
 -   浅度响应式设计。
 
-## 更新日志
-
-### 4.2.1
-
-`2017-05-12`
-
--     新增IconFont扩展方案,本地使用方案。[#270](https://github.com/zuiidea/antd-admin/issues/270) [Live](http://47.92.30.98:666/UIElement/iconfont)
--     新增常见场景使用loading。 [dva-loading](https://github.com/dvajs/dva-loading)
-
-### 4.2
-
-`2017-04-28`
-
--     修改user相关API使用`Restful`风格。
--     增加user页面多条件查询。[#266](https://github.com/zuiidea/antd-admin/issues/226)
--     修复菜单默认高亮。[#201](https://github.com/zuiidea/antd-admin/issues/201)
-
-      [More Change Log](https://github.com/zuiidea/antd-admin/wiki/Change-Log)
-
 ## 开发构建
 
 ### 目录结构
@@ -98,7 +79,7 @@ npm run build
 将会生成dist目录
 ```
 
-代码检测：
+代码检测：https://github.com/vikingmute/javascript
 
 ```bash
 npm run lint
@@ -112,12 +93,3 @@ npm run lint
 
 dashboard设计稿：<https://dribbble.com/shots/3108122-Dashboard-Admin> （已征得作者同意）
 
-## 截屏
-
-web
-
-![](assets/4.2.1-demo-1.gif)
-
-移动
-
-![](assets/4.2.1-demo-2.gif)
