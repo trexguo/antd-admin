@@ -1,7 +1,7 @@
 module.exports = {
-  name: 'AntD Admin',
+  name: '费控系统',
   prefix: 'antdAdmin',
-  footerText: 'Ant Design Admin  © 2017 zuiidea',
+  footerText: '费控系统 © 2017 Elitesland',
   logo: '/logo.png',
   iconFontCSS: '/iconfont.css',
   iconFontJS: '/iconfont.js',
